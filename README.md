@@ -1,5 +1,6 @@
 Bitcoin Core integration/staging tree
 =====================================
+Thala
 
 https://bitcoincore.org
 
